@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 100px;
+    width: 100vw;
+    background-color: black;
+}
+
+nav{
+    height: 100px;
+    width: 100vw;
+    background-color: #29B1DD;
+}
+
+main{
+    height: calc(100vh - 150px);
+    width: 100vw;
+    background-color: #DDDDDD; 
+    padding: 20px;
+}
+
+.icona{
+    background-color: #fff;
+    height: 100px;
+    margin: 20px;
+    padding: 10px;
+}
+
+i{
+    font-size: 50px;
+}
